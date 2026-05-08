@@ -1,3 +1,6 @@
-hi world 
+ hi world 
 
-i am learing devop,s i am very excited
+i am learing devops.. i am very excited
+
+as far i learned linux
+i also learned git
