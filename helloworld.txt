@@ -8,7 +8,6 @@ i have also learned ansible
 i have also learned git.
 
 as far i learned linux
-i also learned git
 
 i am learning terraform now.
 
