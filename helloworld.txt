@@ -3,7 +3,6 @@
 i am learing devops.. i am very excited
 
 as far i learned linux
-i also learned git
 
 
 i am learning terraform now.
